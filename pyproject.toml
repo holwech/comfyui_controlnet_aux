@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Joachim Holwech <joachim@holwech.com>"]
 readme = "README.md"
-packages = [{include = "comfyui_controlnet_aux"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
