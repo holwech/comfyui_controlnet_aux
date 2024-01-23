@@ -11,12 +11,9 @@ torchvision
 pyyaml
 scikit-image
 python-dateutil
-mediapipe
-svglib
 fvcore
 yapf
 omegaconf
 ftfy
 addict
 yacs
-trimesh[easy]
